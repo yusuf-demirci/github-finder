@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+Live Site URL:  https://yusuf-demirci-github-finder.netlify.app
+
+Currently it's not working correctly due to API KEY restrictions. At local it's working properly.
 
 ## Available Scripts
 
